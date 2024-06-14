@@ -2,8 +2,7 @@
 
 <h2> // About me </h2>
 
-- 👨‍💻 My last job was working as a **front-end developer**
-- 🤓 Seeking to become a **full-stack developer**
+- 👨‍💻 Current working as a **full-stack developer**
 - 🎓 Graduated in systems analysis and development
 
 <h2>  // Skills  </h2>
